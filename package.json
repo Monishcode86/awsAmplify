@@ -4,7 +4,7 @@
   "description": "\"# awsAmplify\"",
   "main": "index.js",
   "scripts": {
-    "build": "cd UI && npm run build",
+    "build": "cd UI && npm ci && npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
